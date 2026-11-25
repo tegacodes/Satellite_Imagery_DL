@@ -1,4 +1,4 @@
-# Download Satellite Imagery with Python
+# Satellite Imagery Downloader 
 
 This repo has three small scripts that each download free satellite or aerial imagery for an area you choose. Each one does the same four things:
 
